@@ -1,0 +1,11 @@
+{
+  "name": "tarea-1",
+  "version": "1.0.0",
+  "description": "tarea 1 de coder backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Alvarado",
+  "license": "ISC"
+}
